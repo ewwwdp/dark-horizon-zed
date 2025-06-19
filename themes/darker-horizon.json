@@ -1,4 +1,5 @@
 {
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Darker Horizon",
   "author": "ewwwdp <ewwwdp@proton.me>",
   "themes": [
@@ -60,6 +61,8 @@
         "scrollbar.track.border": "#2E303EB3",
         "editor.foreground": "#D5D8DA",
         "editor.background": "#0e0e0e",
+        "editor.debugger_active_line.background": "#3E3E0B",
+        "debugger.accent": "#5D552F",
         "editor.gutter.background": "#0e0e0e",
         "editor.subheader.background": "#2E303E",
         "editor.active_line.background": "#080808",
