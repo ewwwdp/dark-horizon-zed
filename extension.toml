@@ -1,6 +1,6 @@
 id = "darker-horizon"
 name = "Darker Horizon Theme"
-version = "0.0.1"
+version = "0.0.3"
 schema_version = 1
 authors = ["ewwwdp <ewwdp@proton.me>"]
 description = "Darker Horizon Theme"
