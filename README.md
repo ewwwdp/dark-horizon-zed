@@ -2,10 +2,9 @@
 
 A port of [Darker Horizon Theme for VS code](https://github.com/ewwwdp/dark-horizon-vscode): a minimal theme with dark colors.
 
-![dark](https://raw.githubusercontent.com/ewwwdp/dark-horizon-zed/refs/heads/add-readme/assets/dark.png)
+![dark](https://raw.githubusercontent.com/ewwwdp/dark-horizon-zed/refs/heads/add-readme/assets/d.png)
 
 ## Install
 1. Search for "Darker Horizon Theme" in `zed:extensions` and install it.
-2. Select `Darker Horizon` in the theme selector.
+2. Select `Darker Horizon` or `Darker Horizon Bold` in the theme selector.
 3. Enjoy!
-
